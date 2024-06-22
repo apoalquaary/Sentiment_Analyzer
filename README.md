@@ -16,14 +16,15 @@ To get started with Sentiment Analyzer, follow these steps:
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/yourusername/sentiment-analyzer.git
+'''
+git clone https://github.com/apoalquaary/Sentiment_Analyzer.git
 cd sentiment-analyzer
+'''
 Install dependencies:
-
-bash
-Copy code
+'''
 pip install -r requirements.txt
+'''
+
 Configuration
 Configure the config.yaml file to tailor the program to your needs:
 
