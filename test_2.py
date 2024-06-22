@@ -12,11 +12,11 @@
 
 
 from sentiment_analyzer import Sentiment_Analyzer
-from utils.data_pipeline import Data_Pipeline
 
 def main():
 
 	texts = [
+
 		'You have a good heart',
 		"he didn't seem very well"
 	]
