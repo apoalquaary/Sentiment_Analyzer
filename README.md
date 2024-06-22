@@ -56,15 +56,16 @@ analyzing_model: cardiffnlp/twitter-xlm-roberta-base-sentiment
 
 Upon running the program, the output will be saved as an Excel file named sentiment_text.xlsx within a folder named output located in the same directory. This file will contain the original data along with the corresponding sentiments analyzed by the selected model (the cleaned data as well if the cleaned_data flag was on). Each row in the Excel file will display the input text alongside its sentiment classification, facilitating easy analysis and interpretation of sentiment trends across the dataset.
 
-Usage 1
+## Usage 1
 Using File Input
-Run the test_1 script:
-
-bash
+Run the test_1.py script:
+```
 python test_1.py
+```
 This will read the Text Column from the file specified in the yaml (excel_file_path or csv_file_path) and analyze sentiments based on the chosen model.
 
-Using 2
+
+## Using 2
 Direct Input
 Prepare a list of texts:
 Run the script (test_2.py) and provide a list of texts as input to the Sentiment Analyzer.
