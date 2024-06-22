@@ -1,7 +1,7 @@
 
 
 file:
-  path: ./docs/microblogging.xlsx
+  path: docs/microblogging.xlsx
   columnName: Text
 
 
