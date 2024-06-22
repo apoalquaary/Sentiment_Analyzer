@@ -7,9 +7,9 @@ file:
 
 clean_data: 1
 
-analyzing_model: CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment # Arabic
-# analyzing_model: cardiffnlp/twitter-roberta-base-sentiment # English
-# analyzing_model: cardiffnlp/twitter-xlm-roberta-base-sentiment # MultiLang
+# analyzing_model: CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment # Arabic https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment
+# analyzing_model: cardiffnlp/twitter-roberta-base-sentiment # English https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment
+analyzing_model: cardiffnlp/twitter-xlm-roberta-base-sentiment # MultiLang https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment/blob/main/config.json
 
 
 
