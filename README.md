@@ -67,6 +67,9 @@ This will read the Text Column from the file specified in the yaml (excel_file_p
 
 ## Using 2
 Direct Input
+```
+python test_2.py
+```
 Prepare a list of texts:
 Run the script (test_2.py) and provide a list of texts as input to the Sentiment Analyzer.
 
